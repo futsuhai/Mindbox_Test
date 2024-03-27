@@ -1,0 +1,11 @@
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\SquareLib\bin\Debug\net8.0\SquareLib.deps.json
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\SquareLib\bin\Debug\net8.0\SquareLib.dll
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\SquareLib\bin\Debug\net8.0\SquareLib.pdb
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\SquareLib\obj\Debug\net8.0\SquareLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\SquareLib\obj\Debug\net8.0\SquareLib.AssemblyInfoInputs.cache
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\SquareLib\obj\Debug\net8.0\SquareLib.AssemblyInfo.cs
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\SquareLib\obj\Debug\net8.0\SquareLib.csproj.CoreCompileInputs.cache
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\SquareLib\obj\Debug\net8.0\SquareLib.dll
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\SquareLib\obj\Debug\net8.0\refint\SquareLib.dll
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\SquareLib\obj\Debug\net8.0\SquareLib.pdb
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\SquareLib\obj\Debug\net8.0\ref\SquareLib.dll

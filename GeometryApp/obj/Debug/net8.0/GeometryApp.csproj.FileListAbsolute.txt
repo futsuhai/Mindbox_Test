@@ -1,0 +1,15 @@
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\GeometryApp\bin\Debug\net8.0\GeometryApp.deps.json
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\GeometryApp\bin\Debug\net8.0\GeometryApp.dll
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\GeometryApp\bin\Debug\net8.0\GeometryApp.pdb
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\GeometryApp\obj\Debug\net8.0\GeometryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\GeometryApp\obj\Debug\net8.0\GeometryApp.AssemblyInfoInputs.cache
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\GeometryApp\obj\Debug\net8.0\GeometryApp.AssemblyInfo.cs
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\GeometryApp\obj\Debug\net8.0\GeometryApp.csproj.CoreCompileInputs.cache
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\GeometryApp\obj\Debug\net8.0\GeometryApp.dll
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\GeometryApp\obj\Debug\net8.0\refint\GeometryApp.dll
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\GeometryApp\obj\Debug\net8.0\GeometryApp.pdb
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\GeometryApp\obj\Debug\net8.0\ref\GeometryApp.dll
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\GeometryApp\obj\Debug\net8.0\GeometryApp.csproj.AssemblyReference.cache
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\GeometryApp\bin\Debug\net8.0\SquareLib.dll
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\GeometryApp\bin\Debug\net8.0\SquareLib.pdb
+C:\Users\futsuhai\Documents\GitHub\Mindbox_Test\GeometryApp\obj\Debug\net8.0\Geometry.1C904D5F.Up2Date
